@@ -1,0 +1,5 @@
+Germany Hamburg 1800000
+Germany Cologne 1000000
+Germany Frankfurt 750000
+Germany Munich 1400000
+Germany Berlin 3700000

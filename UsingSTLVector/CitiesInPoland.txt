@@ -1,0 +1,5 @@
+Poland Wroclaw 600000
+Poland Lodz 700000
+Poland Krakow 800000
+Poland Warsaw 1800000
+Poland Poznan 500000
